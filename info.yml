@@ -1,0 +1,16 @@
+project:
+  name: 'BLUEJAY-PSG2-23-24 Test'
+  owner: 'BJ'
+  teamId: '01'
+  identities:
+    github:
+      url: 'https://github.com/gii-is-psg2/bluejay-psg2-23-24.git'
+  members:
+    member1:
+      name: 'Manuel'
+      surname: 'Otero'
+      githubUsername: 'motero2k'
+    member2:
+      name: 'Manuel-2'
+      surname: 'Otero'
+      githubUsername: 'motero2kv2'
